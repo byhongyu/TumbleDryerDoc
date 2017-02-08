@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "exercises",
+        "katex",
+        "atoc",
+        "theme-api",
+        "theme-api-khangnt",
+        "theme-official"
+    ]
+}
